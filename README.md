@@ -1,3 +1,32 @@
+# みんな向け
+
+## 開発に必要なもの
+
+### アプリ
+
+- [Visual Studio Code](https://code.visualstudio.com/download)などのコードエディター
+- [Google Chrome](https://www.google.com/chrome/)
+
+### パッケージマネージャ
+
+- [npm](https://google.com/search?q=npm+インストール)
+
+### 概念(?)
+
+- GitHub の[アカウント](https://github.com/join)
+
+## プロジェクトに参加する方法
+
+1. 開発に必要なものを揃える
+2. vscode を開く
+3. この Git リポジトリを[クローン](https://google.com/search?q=vscode+リポジトリ+クローン)
+4. vscode のターミナルで `npm install`を実行
+5. ソース(`src/`にある)をいじったり、F5 で実行したり。
+
+---
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
