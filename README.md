@@ -9,7 +9,7 @@
 
 ### パッケージマネージャ
 
-- [npm](https://google.com/search?q=npm+インストール)
+- [npm](https://google.com/search?q=npm+インストール)(LTS 版)
 
 ### 概念(?)
 

@@ -2,8 +2,8 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import { env } from "process";
-import { initializeFirebaseApp } from "./firebase";
-import { signin } from "./google-signin";
+import { initializeFirebaseApp } from "./models/firebase";
+import { signin } from "./models/google-signin";
 import { Button } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
